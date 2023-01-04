@@ -1,0 +1,14 @@
+---
+:id: 59932166
+:submitters:
+- :name: Sophie Johnson
+  :email: smj2173@columbia.edu
+- :name: Anya Devgan
+  :email: ad3706@barnard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-19 07:22:19.819682000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-18 23:22:19.819682000 Z
+:status: processed
+:score: 25.0
